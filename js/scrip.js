@@ -1,3 +1,3 @@
 function press(){
-    alert("hii")
+    alert("WISH YOU A HAPPY DAY")
 }
